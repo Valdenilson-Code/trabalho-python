@@ -1,5 +1,3 @@
-# trabalho-python
-
 # Programação em Python
 
 ## Aluno
