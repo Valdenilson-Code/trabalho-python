@@ -1,6 +1,6 @@
 # Programação em Python
 
-## Aluno
+## Discente
 Valdenilson Ferreira Reis de Araujo
 
 ## Questões apresentadas
